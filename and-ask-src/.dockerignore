@@ -1,0 +1,22 @@
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+*.env
+.env
+
+# Ignore database files, media, and static files
+mysql_data/
+media/
+static/
+
+# Ignore version control files
+.git/
+.gitignore
+
+# Node modules (if applicable)
+node_modules/

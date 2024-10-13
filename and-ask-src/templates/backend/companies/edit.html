@@ -1,0 +1,176 @@
+{% extends 'backend/base.html' %}
+{% block content %}
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6"> 
+            <h1>Dashboard</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="/auth/admin-dashboard/">Home</a></li>
+              <li class="breadcrumb-item active"><a href="/auth-v1/company-management/">Company List</a></li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card card-danger">
+              <div class="card-header">
+                <h3 class="card-title">Edit New Company</h3>
+            <form enctype="multipart/form-data" method="POST" class="uform">
+              </div>
+                <div class="card-body">
+                
+                {% csrf_token %}
+                    <input type="hidden" name="csrfmiddlewaretoken" value="">
+                    
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Name:</label>
+                      <input type="text" class="form-control" id="name" value="{{list.company_name}}" placeholder="Employee Name .*">
+                      <span class="text-danger font-weight-bold" id="name-err"></span>
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Email :</label>
+                      <input type="text" class="form-control" id="email" value="{{list.email}}" placeholder="Email.*">
+                      <span class="text-danger font-weight-bold" id="email-err"></span>
+                    </div>
+                   
+                  <div class="form-group d-none">
+                    <label for="exampleInputEmail1">Password :</label>
+                    <input type="text" class="form-control" id="password" placeholder="Password.*"  value="{{list.password}}"></textarea>
+                    <span class="text-danger font-weight-bold" id="password-err"></span>
+                  </div>
+                </div>
+                <div class="card-footer" id="save-btn-conatiner">
+                  <button type="button" class="btn btn-danger" id="save-btn-custom">Save</button>
+                </div>
+            </div>
+            </form>
+          </div>
+        </div>
+        <!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  
+<script>
+    document.querySelectorAll('input[type="number"]').forEach(input=>{
+        input.oninput = () =>{
+            if(input.value.length > input.maxLength) input.value = input.value.slice(0,input.maxLength);
+        }
+    })
+</script>   
+<script>
+    $(document).ready(function() 
+    {
+        $('.dropify').dropify();
+    });
+
+</script>
+<script>
+    $(document).ready(function(){
+        $(document).on('click','#save-btn-custom',function(){
+          const reg_email = /^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
+          var name = $('#name').val();
+          var email = $('#email').val();
+          var password = $('#password').val();
+          
+          if(name=="")
+          {
+              $('#name').addClass('is-invalid');
+              $('#name-err').text('Enter Company Name.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+          }else{
+              $('#name').removeClass('is-invalid');
+              $('#name-err').text('');
+          }
+          
+          if(email=="")
+          {
+              $('#email').addClass('is-invalid');
+              $('#email-err').text('Enter Email.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+          }else if(!reg_email.test(email)){
+            $('#email').addClass('is-invalid'); 
+            $('#email-err').text('Enter valid email address.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+          
+          }else{
+              $('#email').removeClass('is-invalid');
+              $('#email-err').text('');
+          }
+          
+          if(password=="")
+          {
+              $('#password').addClass('is-invalid');
+              $('#password-err').text('Enter Password.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+          }else if(password.length < 6){
+            $('#password').addClass('is-invalid');
+            $('#password-err').text('Pasword should be greater than 6 digit.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");  
+          }else{
+              $('#password').removeClass('is-invalid');
+              $('#password-err').text('');
+          }
+          
+          if(name!="" && email!="" &&  reg_email.test(email))
+          {
+               
+            var fd = new FormData();
+            
+            fd.append('name',name);
+            fd.append('email',email);
+            fd.append('id',"{{list.pkid}}");
+            fd.append('csrfmiddlewaretoken',$('input[name="csrfmiddlewaretoken"]').val())
+            $.ajax({
+              url: '/auth-v1/update-company/',
+              method: "POST",
+              data: fd,
+              contentType: false,
+              processData: false,
+                    
+              beforeSend: function(){
+                $('#name').removeClass('is-invalid');
+                $('#name-err').text('');
+                    
+                $("#save-btn-conatiner").html('<div class="spinner-border text-danger text-right"></div>');
+              },
+              success: function(data) {
+                console.log(data)
+                if ((data != null) && (data.msg == 'Updated')) 
+                {
+                  sessionStorage.setItem('updated',true);
+                  window.location.href = '/auth-v1/company-management/';
+                }
+                else if((data != null) && (data.msg == 'email already exist')) {
+                  $('#email').addClass('is-invalid');
+                  $('#email-err').text('Email already Exist.*');
+                }
+              },complete:function(data){
+                  $("#save-btn-conatiner").html('<button type="button" class="btn btn-danger" id="save-btn-custom">Save</button>');
+                }
+              });
+            }
+        })
+    })
+</script>
+
+<script>
+    $(document).ready(function() 
+    {
+        $('.dropify').dropify();
+        $('.select2').select2();
+        $('.select2bs4').select2({
+        theme: 'bootstrap4'
+        });
+    });
+</script>
+
+{% endblock content %}

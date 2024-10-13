@@ -1,0 +1,53 @@
+services:
+  mysql_db:
+    container_name: mysql_con
+    image: mysql
+    restart: always
+    ports:
+      - "3307:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=${DB_NAME}
+      - MYSQL_USER=${DB_USER}
+      - MYSQL_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-proot"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  phpmyadmin:
+    image: phpmyadmin
+    container_name: phpmyadmin_con
+    restart: always
+    ports:
+      - "8080:80"  # Access phpMyAdmin on port 8080
+    environment:
+      PMA_HOST: mysql_db  # Hostname of the MySQL container
+      PMA_USER: ${DB_USER}  # Use the MySQL user from .env
+      PMA_PASSWORD: ${DB_PASSWORD}  # Use the MySQL password from .env
+      MYSQL_ROOT_PASSWORD: root
+    depends_on:
+      - mysql_db
+
+  django_project:
+    container_name: django_con
+    image: django-image
+    build:
+      context: .
+      dockerfile: ./docker/local/django/Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - "./and_ask_app/.env"
+    volumes:
+      - .:/and_ask_app
+    # command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+    command: bash -c "ls -la && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+
+    depends_on:
+      mysql_db:
+        condition: service_healthy

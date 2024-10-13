@@ -1,0 +1,1615 @@
+2024-10-04 11:24:53,244 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 11:25:33,157 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\profiles\signals.py changed, reloading.
+2024-10-04 11:25:37,045 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 11:26:02,544 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 11:27:29,955 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 11:27:33,475 django.request WARNING  Not Found: /
+2024-10-04 11:29:34,062 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 11:29:41,930 django.request WARNING  Not Found: /auth/logo_icon_02_1.png
+2024-10-04 11:29:42,211 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-04 11:29:50,938 django.request WARNING  Not Found: /favicon.ico
+2024-10-04 11:35:19,281 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-04 11:35:20,899 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-04 13:12:14,066 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 13:57:23,627 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-04 17:07:20,127 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-04 21:29:56,729 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 21:29:57,886 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 4
+2024-10-04 21:29:57,887 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 6
+2024-10-04 21:29:57,888 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 7
+2024-10-04 21:29:57,888 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 8
+2024-10-04 21:29:57,889 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 9
+2024-10-04 21:29:57,889 dotenv.main  WARNING  Python-dotenv could not parse statement starting at line 10
+2024-10-04 16:27:10,553 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-04 16:50:13,855 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-08 16:36:55,015 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 17:15:33,983 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 17:20:03,870 django.request WARNING  Not Found: /favicon.ico
+2024-10-08 18:17:56,229 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:18:04,398 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:19:31,933 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-08 18:19:34,740 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:19:44,134 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-08 18:19:47,290 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:19:57,241 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-08 18:20:00,793 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:20:20,825 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\urls.py changed, reloading.
+2024-10-08 18:20:24,223 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:20:32,911 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\urls.py changed, reloading.
+2024-10-08 18:20:36,264 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:20:46,078 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\urls.py changed, reloading.
+2024-10-08 18:20:49,153 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:21:28,644 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:21:31,705 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:21:48,167 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:21:52,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:22:01,654 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:22:04,985 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:22:36,182 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:22:38,925 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:22:59,318 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 18:23:03,920 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:23:14,351 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 18:23:16,930 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:23:28,698 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:23:31,742 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:23:49,417 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\urls.py changed, reloading.
+2024-10-08 18:23:54,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:24:04,806 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:24:08,884 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:24:26,490 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:24:30,292 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:27:59,344 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:28:29,863 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:28:34,356 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:28:34,673 django.request WARNING  Not Found: /favicon.ico
+2024-10-08 18:28:36,819 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:29:58,983 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:30:50,730 django.request WARNING  Not Found: /auth/v1/company-management
+2024-10-08 18:31:22,408 django.request WARNING  Not Found: /auth/v1/company-management
+2024-10-08 18:31:24,753 django.request WARNING  Not Found: /auth/v1/company-management
+2024-10-08 18:31:25,712 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-08 18:31:31,938 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:32:46,004 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:32:49,297 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:33:04,783 django.request WARNING  Not Found: /auth/v1/employee-management
+2024-10-08 18:33:16,941 django.request WARNING  Not Found: /auth/company-management
+2024-10-08 18:33:57,909 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:34:01,957 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:34:14,037 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:34:17,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:34:44,155 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:34:47,758 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:34:57,473 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:35:01,061 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:35:41,242 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:35:45,074 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:35:56,435 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:36:00,203 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:38:49,158 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-08 18:38:52,727 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:39:03,023 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-08 18:39:06,612 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:41:49,851 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-08 18:41:54,178 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:47:15,382 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:47:18,659 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:47:30,914 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:47:33,977 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:47:43,393 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:47:46,084 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:48:03,895 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:48:08,342 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:49:40,324 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 18:49:43,438 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:49:52,156 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 18:49:54,826 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:50:18,279 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 18:50:21,721 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:50:31,624 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 18:50:34,300 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:54:18,722 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:54:22,668 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:54:32,274 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:54:36,533 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:54:53,185 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:54:56,460 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:55:06,417 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 18:55:09,501 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 18:55:39,424 django.request ERROR    Internal Server Error: /auth-v1/add-company/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.OperationalError: (1054, "Unknown column 'users_user.company_name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py", line 6, in middleware
+    if request.user.is_authenticated and request.user.is_superuser:
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\utils\functional.py", line 266, in inner
+    self._setup()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\utils\functional.py", line 419, in _setup
+    self._wrapped = self._setupfunc()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\middleware.py", line 25, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\middleware.py", line 11, in get_user
+    request._cached_user = auth.get_user(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\__init__.py", line 198, in get_user
+    user = backend.get_user(user_id)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\backends.py", line 161, in get_user
+    user = UserModel._default_manager.get(pk=user_id)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.OperationalError: (1054, "Unknown column 'users_user.company_name' in 'field list'")
+2024-10-08 18:57:11,646 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:01:56,027 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:02:02,306 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:04:07,271 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:04:13,655 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:04:23,956 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:04:27,371 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:05:29,982 django.request WARNING  Not Found: /auth-v1/edit-company/fd411fe2-c5e1-49ab-a3ca-599af6ed3ca1
+2024-10-08 19:07:03,530 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:07:06,603 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:07:54,558 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:07:58,414 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:10:41,571 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:10:45,552 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:10:57,750 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:11:01,889 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:18:34,157 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:18:38,087 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:18:49,044 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:18:53,000 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:19:04,488 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:19:07,960 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:19:18,121 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:19:20,709 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:20:44,332 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:20:49,847 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:22:10,212 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:22:14,867 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:23:46,743 django.request ERROR    Internal Server Error: /auth-v1/create-company/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py", line 7, in middleware
+    response = get_response(request, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\users\views.py", line 37, in create
+    obj.save()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+2024-10-08 19:23:57,609 django.request ERROR    Internal Server Error: /auth-v1/create-company/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py", line 7, in middleware
+    response = get_response(request, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\users\views.py", line 37, in create
+    obj.save()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+2024-10-08 19:24:11,014 django.request ERROR    Internal Server Error: /auth-v1/create-company/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+MySQLdb.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py", line 7, in middleware
+    response = get_response(request, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\users\views.py", line 37, in create
+    obj.save()
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\contrib\auth\base_user.py", line 76, in save
+    super().save(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\db\backends\mysql\base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 179, in execute
+    res = self._query(mogrified_query)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\cursors.py", line 330, in _query
+    db.query(q)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\MySQLdb\connections.py", line 261, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'username'")
+2024-10-08 19:25:46,625 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 19:25:50,181 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:26:03,884 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\models.py changed, reloading.
+2024-10-08 19:26:06,394 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:26:31,195 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:26:34,428 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 19:26:52,101 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\users\views.py changed, reloading.
+2024-10-08 19:26:57,304 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:15:26,354 django.request WARNING  Not Found: /auth/logo_icon_02_1.png
+2024-10-08 20:15:26,539 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-08 20:41:04,541 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:41:13,592 django.request ERROR    Internal Server Error: /company/login/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 8, in index
+    return render(request,"company/company-login.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'forgot-password' not found. 'forgot-password' is not a valid view function or pattern name.
+2024-10-08 20:42:44,207 django.request ERROR    Internal Server Error: /company/login/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 8, in index
+    return render(request,"company/company-login.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'forgot-password' not found. 'forgot-password' is not a valid view function or pattern name.
+2024-10-08 20:42:44,608 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:42:49,837 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:43:06,894 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:43:11,837 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:43:44,458 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:44:01,996 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:44:05,719 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:44:11,367 django.request WARNING  Not Found: /company/login/logo_icon_02_1.png
+2024-10-08 20:44:11,577 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-08 20:44:16,274 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-08 20:44:18,104 django.request WARNING  Not Found: /courier-login-auth/
+2024-10-08 20:44:20,467 django.request WARNING  Not Found: /courier-login-auth/
+2024-10-08 20:46:29,802 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:46:34,118 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:46:44,307 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:46:47,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:48:30,205 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:48:33,622 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:48:44,015 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:48:47,362 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:48:59,223 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:49:01,907 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:49:12,677 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:49:15,715 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:49:26,146 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:49:30,834 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:50:25,184 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 20:50:28,172 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:50:38,100 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 20:50:41,228 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:50:50,858 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 20:50:53,566 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:51:03,442 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 20:51:06,355 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:51:16,218 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\authentication\views.py changed, reloading.
+2024-10-08 20:51:19,908 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:51:29,820 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:51:33,539 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:51:43,164 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:51:45,952 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:51:55,338 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:51:59,430 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:52:17,936 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:52:21,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:52:30,183 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:52:33,451 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:52:42,910 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:52:46,937 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:52:55,016 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:52:58,749 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:53:08,228 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:53:11,108 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:53:19,095 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:53:22,853 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:55:03,201 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 20:55:06,632 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:55:50,180 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-08 20:55:53,508 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 20:55:58,757 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-08 20:56:16,122 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: courier/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: courier/base.html
+2024-10-08 20:57:16,880 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 197, in render
+    template = context.template.engine.select_template(template_name)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\engine.py", line 212, in select_template
+    raise TemplateDoesNotExist(", ".join(not_found))
+django.template.exceptions.TemplateDoesNotExist: courier/include/header.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: courier/include/header.html
+2024-10-08 20:57:21,781 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 197, in render
+    template = context.template.engine.select_template(template_name)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\engine.py", line 212, in select_template
+    raise TemplateDoesNotExist(", ".join(not_found))
+django.template.exceptions.TemplateDoesNotExist: courier/include/header.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: courier/include/header.html
+2024-10-08 20:57:51,349 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'courier-dashboard' not found. 'courier-dashboard' is not a valid view function or pattern name.
+2024-10-08 20:59:14,633 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'courier/dashboard' not found. 'courier/dashboard' is not a valid view function or pattern name.
+2024-10-08 20:59:33,042 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '/company/dashboard' not found. '/company/dashboard' is not a valid view function or pattern name.
+2024-10-08 20:59:35,625 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '/company/dashboard' not found. '/company/dashboard' is not a valid view function or pattern name.
+2024-10-08 20:59:44,608 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'company/dashboard' not found. 'company/dashboard' is not a valid view function or pattern name.
+2024-10-08 20:59:52,275 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'company/dashboard' not found. 'company/dashboard' is not a valid view function or pattern name.
+2024-10-08 21:00:19,726 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+2024-10-08 21:04:07,214 django.request WARNING  Not Found: /courier-logout/
+2024-10-08 21:04:28,912 django.request WARNING  Not Found: /logout/
+2024-10-08 21:04:50,576 django.request WARNING  Not Found: /login/
+2024-10-08 21:05:41,525 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 21:05:46,305 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 21:05:56,421 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-08 21:06:00,137 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-08 21:06:14,576 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-08 21:06:26,152 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-08 21:07:19,294 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '/company/dashboard' not found. '/company/dashboard' is not a valid view function or pattern name.
+2024-10-08 21:07:33,901 django.request ERROR    Internal Server Error: /company/dashboard/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 41, in company_dashboard
+    return render(request,"company/dashboard.html")
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 54, in render
+    result = self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'company/dashboard' not found. 'company/dashboard' is not a valid view function or pattern name.
+2024-10-08 21:08:21,721 django.request WARNING  Not Found: /courier-dashboard/
+2024-10-08 21:08:36,037 django.request WARNING  Not Found: /company/dashboard/company/dashboard
+2024-10-08 21:09:04,623 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 12:29:19,319 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 12:38:58,906 django.request WARNING  Not Found: /
+2024-10-09 12:39:03,819 django.request WARNING  Not Found: /auth/logo_icon_02_1.png
+2024-10-09 12:39:03,825 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 12:39:23,621 django.request WARNING  Not Found: /company/login/logo_icon_02_1.png
+2024-10-09 12:39:23,631 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 12:39:35,130 django.request WARNING  Not Found: /favicon.ico
+2024-10-09 12:40:21,365 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:22,673 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:23,437 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:23,630 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:23,810 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:23,986 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:24,161 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:24,334 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:24,504 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 12:40:30,108 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 12:40:43,724 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 13:07:42,277 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-09 13:07:47,472 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:08:57,296 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:09:00,402 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:09:21,648 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 13:13:29,654 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py changed, reloading.
+2024-10-09 13:13:34,508 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:13:46,311 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py changed, reloading.
+2024-10-09 13:13:49,521 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:14:05,829 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py changed, reloading.
+2024-10-09 13:14:08,912 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:14:28,095 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py changed, reloading.
+2024-10-09 13:14:31,363 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:14:41,091 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py changed, reloading.
+2024-10-09 13:14:43,854 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:17:53,444 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-09 13:18:12,363 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:18:24,185 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:18:28,951 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:19:00,484 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:19:05,739 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:19:35,986 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:19:38,643 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:21:28,104 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:21:31,363 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:21:41,042 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:21:44,395 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:21:55,066 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:21:57,700 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:22:11,857 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:22:14,962 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:22:30,772 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:22:33,369 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:22:41,894 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:22:45,856 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:23:07,840 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:23:11,150 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:24:23,433 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:24:26,153 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:24:48,673 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:24:51,249 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:25:01,106 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:25:05,021 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:25:14,434 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:25:17,245 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:33:53,506 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 13:33:55,967 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 13:34:38,902 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 13:34:49,367 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 15:23:47,103 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:23:53,356 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:23:56,418 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 15:23:58,532 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:24:00,523 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:24:01,285 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:24:14,160 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:26:23,834 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 15:26:30,706 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 15:27:20,381 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 15:27:23,515 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 15:39:50,099 django.request WARNING  Not Found: /auth/driver-management/
+2024-10-09 15:41:16,270 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 15:41:45,894 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:41:50,176 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 15:42:06,079 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 15:42:07,967 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-09 15:42:30,903 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 15:42:34,318 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 15:42:35,351 django.security.csrf WARNING  Forbidden (CSRF token from the 'X-Csrftoken' HTTP header incorrect.): /auth/login-auth/
+2024-10-09 15:42:50,666 django.request WARNING  Not Found: /courier/driver-management/
+2024-10-09 15:43:01,081 django.request WARNING  Not Found: /courier/employee-management/
+2024-10-09 15:43:06,772 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-09 16:54:15,903 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 16:54:21,833 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 16:54:43,228 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 16:54:46,447 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 16:54:55,024 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 16:54:58,380 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 16:55:09,140 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-09 16:55:12,474 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 16:56:27,524 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\settings\base.py changed, reloading.
+2024-10-09 16:56:31,206 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 16:57:21,918 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-09 16:57:26,760 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 18:56:03,511 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 18:56:09,114 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 18:58:40,485 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 18:58:43,106 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 18:58:51,289 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 18:58:54,425 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 18:59:28,580 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 18:59:31,011 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 18:59:45,703 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 18:59:48,255 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 19:00:09,289 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 19:00:12,108 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 19:00:31,740 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-09 19:00:34,103 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-09 19:03:13,834 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-09 19:03:16,698 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:24:27,031 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:25:28,845 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-10 10:25:31,646 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:25:48,265 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:25:51,078 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:26:08,293 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-10 10:26:10,733 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:26:33,491 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:27:30,187 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-10 10:27:35,609 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:27:53,244 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:27:55,645 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:28:21,339 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-10 10:28:23,733 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:29:42,201 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:33:31,804 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:36:42,884 django.request WARNING  Not Found: /auth/logo_icon_02_1.png
+2024-10-10 10:36:42,888 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-10 10:36:46,000 django.request WARNING  Not Found: /favicon.ico
+2024-10-10 10:38:11,870 django.request WARNING  Not Found: /company/login/assets/favicons/manifest.json
+2024-10-10 10:38:11,879 django.request WARNING  Not Found: /company/login/logo_icon_02_1.png
+2024-10-10 10:39:45,664 django.request WARNING  Not Found: /company/import/
+2024-10-10 10:40:26,710 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\urls.py changed, reloading.
+2024-10-10 10:40:30,030 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:40:39,754 django.request ERROR    Internal Server Error: /company/import/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\company\views.py", line 189, in import_excel
+    return redirect('employee_list')  # Redirect back to the employee list page
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 48, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 145, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'employee_list' not found. 'employee_list' is not a valid view function or pattern name.
+2024-10-10 10:41:16,979 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:41:19,995 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:41:32,651 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:41:35,316 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:44:28,453 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:44:31,580 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:44:50,030 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:44:52,834 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:48:15,040 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:49:49,841 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:49:52,629 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:50:08,882 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:51:02,126 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:51:05,341 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 10:51:17,764 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\company\views.py changed, reloading.
+2024-10-10 10:51:20,395 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-10 14:59:43,194 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-11 12:22:55,397 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:24:08,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:24:17,776 django.request WARNING  Not Found: /
+2024-10-11 12:24:21,724 django.request WARNING  Not Found: /auth/logo_icon_02_1.png
+2024-10-11 12:24:21,740 django.request WARNING  Not Found: /auth/assets/favicons/manifest.json
+2024-10-11 12:24:34,043 django.request WARNING  Not Found: /favicon.ico
+2024-10-11 12:27:10,457 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\and_ask_app\urls.py changed, reloading.
+2024-10-11 12:27:13,247 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:28:00,393 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\urls.py changed, reloading.
+2024-10-11 12:28:03,486 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:28:13,946 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\urls.py changed, reloading.
+2024-10-11 12:28:17,770 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:28:37,319 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:28:40,867 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:29:50,956 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:29:53,636 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:30:04,225 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:30:06,816 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:30:19,236 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\urls.py changed, reloading.
+2024-10-11 12:30:21,987 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:33:39,273 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:33:41,916 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:34:25,271 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-11 12:34:28,035 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:34:36,555 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-11 12:34:39,935 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:34:49,717 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\utils.py changed, reloading.
+2024-10-11 12:34:52,710 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:35:45,964 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:36:14,770 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:36:18,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:36:22,144 django.request ERROR    Internal Server Error: /auth-v2/add-sector/
+Traceback (most recent call last):
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\middlewares\auth.py", line 7, in middleware
+    response = get_response(request, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py", line 20, in add
+    return render(request,'backend/sectors/add.html')
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "E:\react-django\and-ask-app\and-ask-src\venv\lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'city-management' not found. 'city-management' is not a valid view function or pattern name.
+2024-10-11 12:38:53,551 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:38:56,408 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:39:10,301 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:39:13,172 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:39:26,681 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:39:29,951 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:39:41,517 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:39:44,689 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:40:11,196 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:40:14,645 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:40:33,754 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:40:37,041 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:40:50,144 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:40:53,560 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:41:06,333 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:41:09,997 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:41:29,615 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:41:33,076 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:42:55,869 django.request WARNING  Not Found: /auth-v1/create/
+2024-10-11 12:43:19,242 django.request WARNING  Not Found: /auth-v1/create/
+2024-10-11 12:43:52,903 django.request WARNING  Not Found: /auth-v1/create-sector/
+2024-10-11 12:46:34,671 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:46:37,642 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:48:47,390 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:48:50,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:49:03,944 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:49:06,945 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:49:18,601 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:49:22,202 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:49:49,641 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:49:52,576 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:50:03,925 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:50:06,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:50:18,352 django.request WARNING  Not Found: /location/update-status/
+2024-10-11 12:56:36,505 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:56:39,366 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:56:50,986 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 12:56:53,419 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 12:57:52,483 django.request WARNING  Not Found: /location/update-status/
+2024-10-11 13:00:39,285 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\sectors\views.py changed, reloading.
+2024-10-11 13:00:42,569 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:07:42,524 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\urls.py changed, reloading.
+2024-10-11 13:07:45,204 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:07:55,138 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\urls.py changed, reloading.
+2024-10-11 13:07:58,182 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:08:07,461 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\urls.py changed, reloading.
+2024-10-11 13:08:10,382 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:08:20,030 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\urls.py changed, reloading.
+2024-10-11 13:08:23,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:08:33,906 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:08:37,017 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:08:47,237 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:08:49,844 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:09:01,627 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:09:05,552 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:09:16,375 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:09:19,514 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:09:45,376 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\serializers.py changed, reloading.
+2024-10-11 13:09:48,418 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:10:22,605 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:10:25,614 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:10:42,510 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:10:44,979 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:10:55,268 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:10:58,788 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:11:10,058 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:11:12,695 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:11:29,841 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:11:32,623 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:11:42,299 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:11:45,247 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:12:02,881 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:12:06,123 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:12:14,820 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:12:17,400 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:12:27,104 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:12:30,567 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:12:40,399 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:12:42,983 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:13:00,741 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:13:05,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:13:16,366 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:13:20,082 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:13:30,647 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:13:33,010 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:13:49,374 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:13:53,538 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:14:23,740 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:14:27,558 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:14:45,258 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:14:47,944 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:15:04,791 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:15:07,478 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:15:17,216 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:15:20,372 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:15:30,201 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:15:32,733 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:16:31,135 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\urls.py changed, reloading.
+2024-10-11 13:16:35,783 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:18:04,190 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:18:06,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:19:06,301 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:21:05,566 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:21:09,886 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:21:32,820 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:21:35,465 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:21:51,756 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:21:54,795 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:23:53,935 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:23:56,697 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:24:14,642 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:24:17,198 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:24:26,108 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:24:29,679 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:24:38,832 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:24:41,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:25:50,317 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\utils.py changed, reloading.
+2024-10-11 13:25:53,270 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:26:32,366 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\views.py changed, reloading.
+2024-10-11 13:26:35,684 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:27:07,746 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\serializers.py changed, reloading.
+2024-10-11 13:27:10,730 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:27:20,913 django.utils.autoreload INFO     E:\react-django\and-ask-app\and-ask-src\apps\api\serializers.py changed, reloading.
+2024-10-11 13:27:24,895 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:27:51,184 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-10-11 13:28:02,641 django.request WARNING  Not Found: /v1/sectors

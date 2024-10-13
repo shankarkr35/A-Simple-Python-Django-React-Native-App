@@ -1,0 +1,202 @@
+{% extends 'backend/base.html' %}
+{% block content %}
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6"> 
+            <h1>Dashboard</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="/auth/admin-dashboard/">Home</a></li>
+              <li class="breadcrumb-item active"><a href="/auth/employee-management/">Employee List</a></li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card card-danger">
+              <div class="card-header">
+                <h3 class="card-title">New Employee</h3>
+            <form enctype="multipart/form-data" method="POST" class="uform">
+              </div>
+                <div class="card-body">
+                
+                {% csrf_token %}
+                    <input type="hidden" name="csrfmiddlewaretoken" value="">
+                    
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Name:</label>
+                    <input type="text" class="form-control" id="name" placeholder="Employee Name .*">
+                    <span class="text-danger font-weight-bold" id="name-err"></span>
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Email :</label>
+                    <input type="text" class="form-control" id="email" placeholder="Email.*">
+                    <span class="text-danger font-weight-bold" id="email-err"></span>
+                  </div>
+                 
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Phone :</label>
+                    <input type="number" class="form-control" id="phone" placeholder="Phone.*" maxlength="8">
+                    <span class="text-danger font-weight-bold" id="phone-err"></span>
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Password :</label>
+                    <input type="text" class="form-control" id="password" placeholder="Password.*"></textarea>
+                    <span class="text-danger font-weight-bold" id="password-err"></span>
+                  </div>
+                 
+                </div>
+                <div class="card-footer" id="save-btn-conatiner">
+                  <button type="button" class="btn btn-danger" id="save-btn-custom">Save</button>
+                </div>
+            </div>
+            </form>
+          </div>
+        </div>
+        <!-- /.row -->
+      </div><!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+   
+<script>
+    document.querySelectorAll('input[type="number"]').forEach(input=>{
+        input.oninput = () =>{
+            if(input.value.length > input.maxLength) input.value = input.value.slice(0,input.maxLength);
+        }
+    })
+</script>   
+<script>
+    $(document).ready(function() 
+    {
+        $('.dropify').dropify();
+    });
+
+    $(function () {
+        $('#description').summernote({
+          height: 200,
+        });
+        
+        $('#arpostDescription').summernote('justifyRight');
+      });
+</script>
+<script>
+    $(document).ready(function(){
+        $(document).on('click','#save-btn-custom',function(){
+          const reg_email = /^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
+            var name = $('#name').val();
+            var email = $('#email').val();
+            var phone = $('#phone').val();
+            var password = $('#password').val();
+
+            if(name=="")
+            {
+                $('#name').addClass('is-invalid');
+                $('#name-err').text('Enter Employee Name.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            }else{
+                $('#name').removeClass('is-invalid');
+                $('#name-err').text('');
+            }
+            
+            if(email=="")
+            { 
+                $('#email').addClass('is-invalid');
+                $('#email-err').text('Enter Email.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            }else if(!reg_email.test(email)){
+              $('#email').addClass('is-invalid'); 
+              $('#email-err').text('Enter valid email address.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            
+            }else{
+                $('#email').removeClass('is-invalid');
+                $('#email-err').text('');
+            }
+            if(phone=="")
+            {
+                $('#phone').addClass('is-invalid');
+                $('#phone-err').text('Enter Phone.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            }else if(phone.length!=8){
+                $('#phone').addClass('is-invalid');
+                $('#phone-err').text('Enter 8 Digit Phone.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            }else{
+                $('#phone').removeClass('is-invalid');
+                $('#phone-err').text('');
+            }
+            if(password=="")
+            {
+                $('#password').addClass('is-invalid');
+                $('#password-err').text('Enter Password.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+            }else if(password.length < 6){
+              $('#password').addClass('is-invalid');
+              $('#password-err').text('Pasword should be greater than 6 digit.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");  
+            }else{
+                $('#password').removeClass('is-invalid');
+                $('#password-err').text('');
+            }
+            
+            if(name!="" && phone!="" && email!="" && password!="" && password.length>=6  && phone.length==8 && reg_email.test(email))
+            {
+                var fd = new FormData();
+                
+                fd.append('name',name);
+                fd.append('email',email);
+                fd.append('phone',phone);
+                fd.append('password',password);
+                
+                fd.append('csrfmiddlewaretoken',$('input[name="csrfmiddlewaretoken"]').val())
+                $.ajax({
+                    url: '/auth/create-employee/',
+                    method: "POST",
+                    data: fd,
+                    contentType: false,
+                    processData: false,
+                    //dataType: "JSON",
+                    beforeSend: function(){
+                    $('#title').removeClass('is-invalid');
+                    $('#title-err').text('');
+                    
+                    $("#save-btn-conatiner").html('<div class="spinner-border text-danger text-right"></div>');
+                   },
+                    success: function(data) {
+                      if ((data != null) && (data.msg == 'Added')) 
+                      {
+                        sessionStorage.setItem('saved',true);
+                        window.location.href = '/auth/employee-management/';
+                      } 
+                      else if((data != null) && (data.msg == 'email already exist')) {
+                        
+                        $('#email').addClass('is-invalid'); 
+                        $('#email-err').text('Email already Exist.*').css({"color":"red","font-weight":"bold"}).fadeIn(1000).delay(3000).fadeOut("slow");
+                        
+                      }
+                    },complete:function(data){
+                     $("#save-btn-conatiner").html('<button type="button" class="btn btn-danger" id="save-btn-custom">Save</button>');
+                   }
+                });
+            }
+
+        })
+    })
+</script>
+
+<script>
+    $(document).ready(function() 
+    {
+        $('.dropify').dropify();
+        $('.select2').select2();
+        $('.select2bs4').select2({
+        theme: 'bootstrap4'
+        });
+    });
+</script>
+
+{% endblock content %}

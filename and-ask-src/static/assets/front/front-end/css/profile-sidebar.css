@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/***********************profile page*************************Mr.Ask*******************/
+
+/* css profile Dashboard */
+
+.user-profile {
+  width: 100%;
+  height: auto;
+  margin-top: 0;
+  background-color: #fff;
+  padding-bottom: 40px;
+  /* margin-top: 14px; */
+  overflow: hidden;
+}
+.user-profile .tab-content {
+  height: auto;
+  padding-block: 30px;
+}
+.user-profile .tab-content h4,
+.user-profile .tab-content label {
+  /* color: #fff!important; */
+}
+.form-control:focus {
+  color: #444;
+  background-color: #fff;
+  border: none;
+  outline: var(--primary-color);
+  box-shadow: 0 0 3px var(--primary-color);
+}
+.user-profile .nav {
+  /* margin-top: 20px; */
+  margin-top: 0px;
+  /* padding-block: 30px; */
+  height: 100%;
+  background-color: #ee741c;
+}
+.user-profile .nav .nav-link {
+  margin-block: 5px;
+  font-size: 18px;
+  font-weight: 300;
+  color: #fff;
+  border-radius: 0;
+  border-bottom: 1px solid lightgray;
+}
+.user-profile .nav .nav-link:hover,
+.user-profile .nav .nav-link.active {
+  background-color: #191917;
+  position: relative;
+  font-weight: 500;
+  border-radius: 0;
+  color: #fff !important;
+
+  transition: all 0.5s linear;
+}
+/* .user-profile .nav .nav-link.active::before{
+    content: ' ';
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    rotate: 45deg;
+    position: absolute;
+    top: 10px;
+    right: -10px;
+    transition: all .5s linear;
+} */
+.profile_headlinens {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-block: 30px; */
+}
+.recorded-are-avelbale {
+  width: 400px;
+  margin: auto;
+  padding-top: 15%;
+  text-align: center;
+}
+.recorded-are-avelbale h1 {
+  color: black !important;
+}
+.profile_headlinens h1 {
+  color: var(--primary-color);
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+}
+.profile_tables th {
+  color: var(--primary-color);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 30px;
+  color: #000000;
+  text-transform: uppercase;
+}
+tr.powerbody .carter .body-power {
+  width: 82px;
+  height: 82px;
+  background: #191917;
+  border-radius: 3px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+tr.powerbody .carter .body-power img {
+  width: 80px;
+  height: 50px;
+  object-fit: cover;
+}
+
+.profile_tables td {
+  color: #fff;
+  line-height: 70px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #191917;
+}
+.pro-cart-img {
+  padding: 5px;
+  display: flex;
+}
+.pro-cart-img_cont {
+  /* width: 82px;
+    height: 82px; */
+  width: 90px;
+  height: 90px;
+  background: #191917;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 12px;
+}
+.pro-cart-img img {
+  /* width: 45px; */
+  width: 80px;
+  object-fit: cover;
+}
+.book-course-btn {
+  width: 120px;
+  height: auto;
+  border-radius: 5px;
+  color: #fefefe !important;
+  background-color: var(--primary-color) !important;
+  transition: all 0.5s linear !important;
+}
+.book-course-btn:hover {
+  color: #000;
+  background-color: var(--primary-color);
+  letter-spacing: 2px;
+}
+.pro-profile-editing form input {
+  height: 46px;
+  border-radius: 5px !important;
+  outline-color: var(--primary-color);
+}
+.save-btn {
+  width: auto;
+  height: 38px;
+  background-color: var(--primary-color);
+  color: #fff;
+  margin-block: 30px;
+  border-radius: 5px;
+  padding-inline: 20px;
+  border: none;
+  outline: none;
+  transition: all 0.5s linear;
+}
+.save-btn:hover {
+  letter-spacing: 2px;
+}
+.course_name_book_class {
+  font-size: 20px;
+  text-transform: capitalize;
+  color: #fff;
+}
+.course_name_book_class span {
+  text-transform: capitalize;
+}
+.course_class_details form {
+  padding-top: 15px;
+}
+.course_class_details form select {
+  width: 100%;
+  height: 35px;
+  border: none;
+  border-radius: 3px;
+  padding-inline: 10px;
+  margin-bottom: 15px;
+}
+.course_class_details form select option:hover {
+  background-color: var(--primary-color);
+}
+.confir_modal .modal-body {
+  padding: 0;
+  background-color: transparent;
+}
+
+/* ------------ */
+.welcome_user {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #ee741c;
+  border-bottom: 1px solid lightgray;
+}
+.profile_book_class.book_a_class_new_add_button {
+  color: red;
+}
+.address_deliver_here_title {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.address_deliver_here_hed h1 {
+  font-size: 15px;
+  background: #2f82fb;
+  color: white;
+  padding: 10px 28px;
+}
+
+.button_radio label {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ipusm_sit {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dolor_button input {
+  margin-right: 10px;
+  width: 16px;
+  height: 16px;
+  margin-top: 3px;
+}
+
+.ipusm_sit button a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.ipusm_sit p {
+  font-size: 14px;
+  margin-left: 24px;
+  margin-top: 10px;
+}
+
+.dolor_button {
+  display: flex;
+}
+
+.DELIVERY_hear_button button {
+  margin-left: 24px;
+}
+
+.ipusm_sit button {
+  border: none;
+  background: none;
+  margin-bottom: 5px;
+}
+
+.DELIVERY_hear_button button {
+  background: #cf4040;
+  border: none;
+  padding: 8px 10px;
+  font-size: 12px;
+  color: white;
+  font-weight: 500;
+}
+
+.DELIVERY_hear_button button a {
+  text-decoration: none;
+  color: white;
+}
+
+.address_deliver_here_title {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.plus_icon {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  padding: 10px 35px;
+  margin-top: 16px;
+  color: #2f82fb;
+  cursor: pointer;
+}
+
+.plus_icon a {
+  text-decoration: none;
+}
+
+.plus_icon label {
+  font-size: 14px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.plus_icon i {
+  font-size: 14px;
+}
+
+.button_radio {
+  padding: 20px 30px;
+}
+
+.address_deliver_checkbox.checked_box {
+  background: white;
+}
+
+.your_has_been.new_register {
+  padding: 0px 90px;
+}
+
+.Get_email {
+  margin-top: 32px;
+  margin-bottom: 24px;
+}
+
+.Get_email a {
+  text-decoration: none;
+}
+
+.Get_email_term_count {
+  display: inline-block;
+}
+
+.Get_email_term_count h4 {
+  font-size: 14px;
+  padding: 30px;
+}
+
+.your_order_blog_count.new_register_count {
+  width: 700px;
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Successful</title>
+    <style>
+        /* Reset styles */
+        body, h1, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            line-height: 1.6;
+        }
+
+        /* Main container */
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eaeaea;
+        }
+
+        .header img {
+            max-width: 150px;
+            margin-bottom: 15px;
+        }
+
+        .header h1 {
+            font-size: 26px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        /* Content */
+        .content {
+            margin-bottom: 30px;
+            color: #555;
+            font-size: 16px;
+        }
+
+        .content p {
+            margin-bottom: 20px;
+        }
+
+        /* Highlighted info */
+        .highlight {
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* Button style */
+        .cta-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .cta-btn:hover {
+            background-color: #45a049;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            color: #777;
+            font-size: 14px;
+            margin-top: 40px;
+            border-top: 1px solid #eaeaea;
+            padding-top: 15px;
+        }
+
+        /* Media query for mobile responsiveness */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            .header h1 {
+                font-size: 22px;
+            }
+
+            .content {
+                font-size: 15px;
+            }
+
+            .cta-btn {
+                padding: 10px 15px;
+            }
+        }
+    </style>
+</head>
+{% load static %}
+<body>
+    <div class="container">
+        <div class="header">
+            <!-- Add your logo here -->
+            {% comment %} <img src="/static/assets/front/front-end/images/logo8.jpeg" alt="Company Logo"> {% endcomment %}
+            <h1>Registration Successful</h1>
+        </div>
+        <div class="content">
+            <p>Hello <span class="highlight">{{ fullname }}</span>,</p>
+            <p>Your email: <span class="highlight">{{ email }}</span></p>
+            <p>Your password: <span class="highlight">{{ password }}</span></p>
+            <p>We are excited to welcome you! Your registration has been completed successfully. Thank you for joining us!</p>
+
+            <a href="https://yourwebsite.com/login" class="cta-btn">Go to Dashboard</a>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 Scrum. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
